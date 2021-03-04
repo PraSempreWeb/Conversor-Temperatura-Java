@@ -2,7 +2,7 @@
  
 
 <h1 align="center"> 
-	:man_technologist: Conversor Temperatura Java   
+	 Conversor Temperatura Java   :man_technologist:
 <h1 align="center">  
 	
 	
