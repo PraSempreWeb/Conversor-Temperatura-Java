@@ -1,4 +1,4 @@
-# Fala Dev´s  :vulcan_salute:
+# Fala Devs  :vulcan_salute:
  
 
 <h1 align="center"> 
